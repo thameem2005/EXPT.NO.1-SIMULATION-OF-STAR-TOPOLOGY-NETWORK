@@ -1,5 +1,8 @@
-# DATE
+# DATE : 23/01/2026
 # EXPT. NO. 1 SIMULATION OF STAR TOPOLOGY NETWORK
+
+### Mathan kailash S 
+### 212223060156
 
 # AIM 
  To simulate a network with Topology, using Cisco Packet Tracer and to verify the connectivity between computer using ICMP.
@@ -22,14 +25,18 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 
 # IP CONNECTIVITY TABLE
 
+<img width="979" height="228" alt="image" src="https://github.com/user-attachments/assets/bc899e4a-501f-4cf0-a126-4a62c3891aa7" />
 
 
 # NETWORK DIAGRAM
 
+<img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/54c60947-f23b-4ef6-8c42-442b313bc49d" />
 
 
 
 # OUTPUT
+
+<img width="1280" height="1199" alt="image" src="https://github.com/user-attachments/assets/09273d65-efcf-4d38-9c20-1cbfabfab463" />
 
 
 # RESULT
