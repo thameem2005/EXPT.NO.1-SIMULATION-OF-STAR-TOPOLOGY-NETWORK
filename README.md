@@ -1,8 +1,7 @@
 # DATE : 23/01/2026
 # EXPT. NO. 1 SIMULATION OF STAR TOPOLOGY NETWORK
 
-### Mathan kailash S 
-### 212223060156
+
 
 # AIM 
  To simulate a network with Topology, using Cisco Packet Tracer and to verify the connectivity between computer using ICMP.
